@@ -1,2 +1,7 @@
 *.csv
 *.ipynb
+de-zoomcamp-tope-a4654072e3c5.json
+week-1/terraform/*
+!week-1/terraform/main.tf
+!week-1/terraform/README.md
+!week-1/terraform/variables.tf
